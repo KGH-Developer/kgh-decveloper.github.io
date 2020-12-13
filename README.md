@@ -1,1 +1,1 @@
-# kgh-decveloper.github.io
+# kgh-developer.github.io
